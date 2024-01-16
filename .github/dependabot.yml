@@ -5,6 +5,8 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+      time: "17:00"
+      timezone: Europe/Amsterdam
     groups:
       masstransit:
         patterns:
